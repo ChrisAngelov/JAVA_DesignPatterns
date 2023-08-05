@@ -2,15 +2,15 @@
 
 |     Creational     |     Structural      |     Behavioral      |
 |:------------------:|:-------------------:|:-------------------:|
-| [Singleton Example](#singleton-example)  | [Adapter Pattern](#adapter-pattern)     | [Observer Pattern](#observer-pattern)    |
+| [Singleton ](#singleton-pattern)  | [Adapter Pattern](#adapter-pattern)     | [Observer Pattern](#observer-pattern)    |
 | [Factory Pattern](#factory-pattern)    | [Composite Pattern](#composite-pattern)   | [Iterator Pattern](#iterator-pattern)    |
 | [Prototype Pattern](#prototype-pattern)  | [Facade Pattern](#facade-pattern)      | [Mediator Pattern](#mediator-pattern)    |
 | [Builder Pattern](#builder-pattern)    |                     | [State Pattern](#state-pattern)       |
 
 ## Creational Patterns
 
-### Singleton Example
-#### What is the Singleton Example?
+### Singleton Pattern
+#### What is the Singleton?
 - Explanation:
 
 ### Factory Pattern
